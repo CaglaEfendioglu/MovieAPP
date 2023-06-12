@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A07A4BD8-E417-46DC-A25E-9E0DC5E5FA88"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01160839-9062-4C81-A5D1-BED3BD376CA3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lodoos/Network/Service/SearchListService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchAllData(path:onSuccess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01160839-9062-4C81-A5D1-BED3BD376CA3 - cb4441d0a98e3c0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Lodoos.SearchResult, Alamofire.AFError&gt;) -&gt; () in Lodoos.SearchListService.fetchAllData(path: Swift.String, onSuccess: (Swift.Array&lt;Lodoos.Search&gt;) -&gt; (), onError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Network/Service/SearchListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "01160839-9062-4C81-A5D1-BED3BD376CA3 - cb4441d0a98e3c0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Lodoos.SearchResult, Alamofire.AFError&gt;) -&gt; () in Lodoos.SearchListService.fetchAllData(path: Swift.String, onSuccess: (Swift.Array&lt;Lodoos.Search&gt;) -&gt; (), onError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Network/Service/SearchListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0464C75A-D6D4-4F47-8B6F-564386450DB2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lodoos/Network/Service/SearchListService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchAllData(path:onSuccess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0464C75A-D6D4-4F47-8B6F-564386450DB2 - cb4441d0a98e3cce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Lodoos.SearchResult, Alamofire.AFError&gt;) -&gt; () in Lodoos.SearchListService.fetchAllData(path: Swift.String, onSuccess: (Swift.Array&lt;Lodoos.Search&gt;) -&gt; (), onError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Network/Service/SearchListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "0464C75A-D6D4-4F47-8B6F-564386450DB2 - cb4441d0a98e3cce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Lodoos.SearchResult, Alamofire.AFError&gt;) -&gt; () in Lodoos.SearchListService.fetchAllData(path: Swift.String, onSuccess: (Swift.Array&lt;Lodoos.Search&gt;) -&gt; (), onError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Network/Service/SearchListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C8AAA26-3280-4AEA-A042-E80B684AB74D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lodoos/Screens/SearchList/SearchListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "load(path:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C8AAA26-3280-4AEA-A042-E80B684AB74D - 8104c6c524a23eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lodoos.SearchLitViewModel.load(path: Swift.String) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Screens/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "4C8AAA26-3280-4AEA-A042-E80B684AB74D - 8104c6c524a23eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lodoos.SearchLitViewModel.load(path: Swift.String) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Screens/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "4C8AAA26-3280-4AEA-A042-E80B684AB74D - f4ae20ec63698700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Lodoos.Search&gt;) -&gt; () in Lodoos.SearchLitViewModel.load(path: Swift.String) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Screens/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "4C8AAA26-3280-4AEA-A042-E80B684AB74D - 8104c6c524a23eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lodoos.SearchLitViewModel.load(path: Swift.String) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Screens/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "4C8AAA26-3280-4AEA-A042-E80B684AB74D - 8104c6c524a23eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lodoos.SearchLitViewModel.load(path: Swift.String) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Screens/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "4C8AAA26-3280-4AEA-A042-E80B684AB74D - f4ae20ec63698700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Lodoos.Search&gt;) -&gt; () in Lodoos.SearchLitViewModel.load(path: Swift.String) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Screens/SearchList/SearchListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39BF519C-71E6-4403-844A-100DF69425E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lodoos/Network/Service/SearchListService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchAllData(path:onSuccess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39BF519C-71E6-4403-844A-100DF69425E1 - 6e9fba88d8048955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lodoos.SearchListService.fetchAllData(path: Swift.String, onSuccess: (Swift.Array&lt;Lodoos.Search&gt;) -&gt; (), onError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Network/Service/SearchListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "39BF519C-71E6-4403-844A-100DF69425E1 - cb4441d0a98e3ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Lodoos.SearchResult, Alamofire.AFError&gt;) -&gt; () in Lodoos.SearchListService.fetchAllData(path: Swift.String, onSuccess: (Swift.Array&lt;Lodoos.Search&gt;) -&gt; (), onError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Network/Service/SearchListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "39BF519C-71E6-4403-844A-100DF69425E1 - cb4441d0a98e3ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Lodoos.SearchResult, Alamofire.AFError&gt;) -&gt; () in Lodoos.SearchListService.fetchAllData(path: Swift.String, onSuccess: (Swift.Array&lt;Lodoos.Search&gt;) -&gt; (), onError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Lodoos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caglaefendioglu/Desktop/ads%C4%B1z%20klaso%CC%88r/lodoos-main/Lodoos/Network/Service/SearchListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
